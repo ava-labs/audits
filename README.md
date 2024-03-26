@@ -24,7 +24,7 @@
 
 ## Teleporter
 
-* [Least Authority - Ava Labs Bridge Smart Contracts Final Audit Report](./teleporter/Least Authority - Ava Labs Bridge Smart Contracts Final Audit Report.pdf)
-* [Teleporter Audit (November 16th 2023) - OpenZeppelin](./teleporter/Teleporter Audit (November 16th 2023) - OpenZeppelin.pdf)
-* [Teleporter Audit (October 20 2023) - Louis](./teleporter/Teleporter Audit (October 20 2023) - Louis.pdf)
+* [Least Authority - Ava Labs Bridge Smart Contracts Final Audit Report](./teleporter/Least_Authority_Ava_Labs_Bridge_Smart_Contracts_Final_Audit_Report.pdf)
+* [Teleporter Audit (November 16th 2023) - OpenZeppelin](./teleporter/Teleporter_Audit_November_16th_2023_OpenZeppelin.pdf)
+* [Teleporter Audit (October 20 2023) - Louis](./teleporter/Teleporter_Audit_October_20_2023_Louis.pdf)
 * [Teleporter Upgradeable Audit (January 10th 2024) - Louis](./teleporter/Teleporter Upgradeable Audit (January 10th 2024) - Louis.pdf)
