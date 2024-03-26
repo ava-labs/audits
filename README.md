@@ -16,15 +16,15 @@
 
 ## Avalanchego
 
-* [OpenZeppelin MerkleDB Audit](https://github.com/JacobEverly/audits/blob/main/avalanchego/Ava%20Labs%20MerkleDB%20Audit.pdf)
+* [OpenZeppelin MerkleDB Audit](./avalanchego/Ava Labs MerkleDB Audit.pdf)
 
 ## Subnet-evm
 
-* [OpenZeppelin Avalanche Warp Messaging](https://github.com/JacobEverly/audits/blob/main/subnet-evm/Avalanche%20Warp%20Messaging%20-%20OpenZeppelin%20(November%2016th%202023).pdf)
+* [OpenZeppelin Avalanche Warp Messaging](./subnet-evm/Avalanche Warp Messaging - OpenZeppelin (November 16th 2023).pdf)
 
 ## Teleporter
 
-* [Least Authority - Ava Labs Bridge Smart Contracts Final Audit Report](https://github.com/JacobEverly/audits/blob/main/teleporter/Least%20Authority%20-%20Ava%20Labs%20Bridge%20Smart%20Contracts%20Final%20Audit%20Report%20(1).pdf)
-* [Teleporter Audit (November 16th 2023) - OpenZeppelin](https://github.com/JacobEverly/audits/blob/main/teleporter/Teleporter%20Audit%20(November%2016th%202023)%20-%20OpenZeppelin.pdf)
-* [Teleporter Audit (October 20 2023) - Louis](https://github.com/JacobEverly/audits/blob/main/teleporter/Teleporter%20Audit%20(October%2020%202023)%20-%20Louis.pdf)
-* [Teleporter Upgradeable Audit (January 10th 2024) - Louis](https://github.com/JacobEverly/audits/blob/main/teleporter/Teleporter%20Upgradeable%20Audit%20(January%2010th%202024)%20-%20Louis.pdf)
+* [Least Authority - Ava Labs Bridge Smart Contracts Final Audit Report](./teleporter/Least Authority - Ava Labs Bridge Smart Contracts Final Audit Report.pdf)
+* [Teleporter Audit (November 16th 2023) - OpenZeppelin](./teleporter/Teleporter Audit (November 16th 2023) - OpenZeppelin.pdf)
+* [Teleporter Audit (October 20 2023) - Louis](./teleporter/Teleporter Audit (October 20 2023) - Louis.pdf)
+* [Teleporter Upgradeable Audit (January 10th 2024) - Louis](./teleporter/Teleporter Upgradeable Audit (January 10th 2024) - Louis.pdf)
