@@ -2,7 +2,7 @@
 
 ## Avalanchego
 
-* [OpenZeppelin MerkleDB Audit](./avalanchego/Ava_Labs_MerkleDB_Audit.pdf)
+* [OpenZeppelin MerkleDB Audit (March 14th 2023)](./avalanchego/Ava_Labs_MerkleDB_Audit.pdf)
 
 ## AvalancheJS
 
@@ -20,7 +20,7 @@
 
 ## Teleporter
 
-* [Least Authority - Ava Labs Bridge Smart Contracts Final Audit Report](./teleporter/Least_Authority_Ava_Labs_Bridge_Smart_Contracts_Final_Audit_Report.pdf)
+* [Least Authority - Ava Labs Bridge Smart Contracts Final Audit Report (July 7th 2023)](./teleporter/Least_Authority_Ava_Labs_Bridge_Smart_Contracts_Final_Audit_Report.pdf)
 * [Teleporter Audit (November 16th 2023) - OpenZeppelin](./teleporter/Teleporter_Audit_November_16th_2023_OpenZeppelin.pdf)
 * [Teleporter Audit (October 20 2023) - Louis](./teleporter/Teleporter_Audit_October_20_2023_Louis.pdf)
 * [Teleporter Upgradeable Audit (January 10th 2024) - Louis](./teleporter/Teleporter_Upgradeable_Audit_January_10th_2024_Louis.pdf)
