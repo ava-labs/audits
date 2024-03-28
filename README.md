@@ -27,4 +27,4 @@
 
 ## Wallet SDK
 
-* [Halborn Audit v1.1](./wallet-sdk/Avalanche_Wallet_SDK_Pentesting_Report_Halborn_v1_1.pdf)
+* [Halborn Audit v1.1 July 24th 2021](./wallet-sdk/Avalanche_Wallet_SDK_Pentesting_Report_Halborn_v1_1.pdf)
