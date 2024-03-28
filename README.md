@@ -34,8 +34,8 @@
 
 ### Core Extension
 
-- [Least Authority Audit (December 15th 2023)](./wallet-sdk/core/Core_Extension_Audit_Least_Authority_December_2023.pdf)
+- [Least Authority Audit (December 15th 2023)](./core/Core_Extension_Audit_Least_Authority_December_2023.pdf)
 
 ### Core Mobile
 
-- [Least Authority Audit (November 30th 2023)](./wallet-sdk/core/Core_Mobile_Wallet_Audit_Least_Authority_November_2023.pdf)
+- [Least Authority Audit (November 30th 2023)](./core/Core_Mobile_Wallet_Audit_Least_Authority_November_2023.pdf)
