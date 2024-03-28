@@ -6,7 +6,7 @@
 
 ## AvalancheJS
 
-* [Halborn Audit v1.1 (September 14th 20212)](./avalanchejs/AVA_Labs_Avalanche_SDK_Security_Audit_Report_Halborn_v1_1.pdf)
+* [Halborn Audit v1.1 (September 14th 2021)](./avalanchejs/AVA_Labs_Avalanche_SDK_Security_Audit_Report_Halborn_v1_1.pdf)
 
 ## Bridge
 
