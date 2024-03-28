@@ -6,17 +6,17 @@
 
 ## AvalancheJS
 
-* [Halborn Audit v1.1 September 14th 20212](./avalanchejs/AVA_Labs_Avalanche_SDK_Security_Audit_Report_Halborn_v1_1.pdf)
+* [Halborn Audit v1.1 (September 14th 20212)](./avalanchejs/AVA_Labs_Avalanche_SDK_Security_Audit_Report_Halborn_v1_1.pdf)
 
 ## Bridge
 
-* [Halborn Bridge Audit v1.1 June 18th 2021](./bridge/Avalanche_Bridge_Security_Audit_Report_Halborn_v1_1.pdf)
-* [Halborn Smart Contract Audit v1.1 June 28th 2021](./bridge/Avalanche_Bridge_Smart_Contract_Security_Audit_Halborn_v1.pdf)
-* [Halborn Warden Audit v1.1 June 16th 2021](./bridge/Avalanche_Warden_Security_Audit_Report_Halborn_v1_1.pdf)
+* [Halborn Bridge Audit v1.1 (June 18th 2021)](./bridge/Avalanche_Bridge_Security_Audit_Report_Halborn_v1_1.pdf)
+* [Halborn Smart Contract Audit v1.1 (June 28th 2021)](./bridge/Avalanche_Bridge_Smart_Contract_Security_Audit_Halborn_v1.pdf)
+* [Halborn Warden Audit v1.1 (June 16th 2021)](./bridge/Avalanche_Warden_Security_Audit_Report_Halborn_v1_1.pdf)
 
 ## Subnet-evm
 
-* [OpenZeppelin Avalanche Warp Messaging](./subnet-evm/Avalanche_Warp_Messaging_OpenZeppelin_November_16th_2023.pdf)
+* [OpenZeppelin Avalanche Warp Messaging (November 16th 2023)](./subnet-evm/Avalanche_Warp_Messaging_OpenZeppelin_November_16th_2023.pdf)
 
 ## Teleporter
 
@@ -27,4 +27,4 @@
 
 ## Wallet SDK
 
-* [Halborn Audit v1.1 July 24th 2021](./wallet-sdk/Avalanche_Wallet_SDK_Pentesting_Report_Halborn_v1_1.pdf)
+* [Halborn Audit v1.1 (July 24th 2021)](./wallet-sdk/Avalanche_Wallet_SDK_Pentesting_Report_Halborn_v1_1.pdf)
