@@ -38,4 +38,4 @@
 
 ### Core Mobile
 
-- [Least Authority Audit (November 30th 2023)](./core/Core_Mobile_Wallet_Audit_Least_Authority_November_2023.pdf)
+- [Least Authority Audit (April 12th 2024)](./core/Core_Mobile_Wallet_Audit_Least_Authority_April_2024.pdf)
