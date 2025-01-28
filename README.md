@@ -26,7 +26,7 @@
 - [Louis Teleporter Audit (October 20th 2023)](./teleporter/Teleporter_Audit_October_20_2023_Louis.pdf)
 - [Louis Teleporter Upgradeable Audit (January 10th 2024)](./teleporter/Teleporter_Upgradeable_Audit_January_10th_2024_Louis.pdf)
 
-## Interchain Token Transfer
+### Interchain Token Transfer
 - [OpenZeppelin Interchain Token Transfer Audit (July 3rd 2024)](./teleporter/Interchain_Token_Transfer_Audit_July_3_2024_OpenZeppelin.pdf)
 
 ## Wallet SDK
